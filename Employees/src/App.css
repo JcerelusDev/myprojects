@@ -1,0 +1,94 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: teal;
+}
+
+/*header */
+.header {
+  width: 90%;
+  height: 50px;
+  display: flex;
+  background: #000;
+  align-items: center;
+  margin-bottom: 30px;
+
+  .text {
+    color: white;
+    font-weight: bold;
+  }
+}
+
+/*table */
+.tb-container {
+  width: 90%;
+
+  .table {
+    border-collapse: collapse;
+    text-align: center;
+    color: white;
+
+  }
+
+  .table th {
+    min-width: 135px;
+    background: #000;
+    height: 40px;
+  }
+
+  .tbrow {
+    font-size: 15px;
+    height: 25px;
+    font-weight: light;
+  }
+
+
+}
+
+/*search area*/
+
+.searchBox {
+  margin-left: 28%;
+  width: 60%;
+  margin-top: 12px;
+  margin-bottom: 30px;
+
+  .search {
+    width: 70%;
+    text-align: center;
+    height: 28px;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    background: #dde;
+  }
+
+
+}
+
+/* sorting style*/
+
+.sort-container {
+  position: absolute;
+  width: 15%;
+  left: 72%;
+  top: 15%;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+
+  .choices {
+    box-shadow: 0px 0px 5px black;
+    min-height: 100px;
+    background: white;
+    text-align: center;
+    color: teal;
+    display: none;
+  }
+}

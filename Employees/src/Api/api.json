@@ -1,0 +1,117 @@
+{
+    "ceo": {
+        "name": "Jacob PARKER",
+        "email": "jacob512@yahoo.fr",
+        "salary": "$250000"
+    },
+    "employees": [
+        {
+            "name": "Trevis PAUL",
+            "email": "trevis@yahoo.fr",
+            "telephone": "48257985",
+            "age": "28",
+            "maritalStatus": "single",
+            "salary": "19000",
+            "position": "supervisor"
+        },
+        {
+            "name": "Sophia MAXIMILI",
+            "email": "sophia@yahoo.fr",
+            "telephone": "18879644",
+            "age": "25",
+            "maritalStatus": "married",
+            "salary": "9000",
+            "position": "secretary"
+        },
+        {
+            "name": "Pablo JOSE",
+            "email": "pablo@yahoo.fr",
+            "telephone": "48474444",
+            "age": "48",
+            "maritalStatus": "divorced",
+            "salary": "19000",
+            "position": "supervisor"
+        },
+        {
+            "name": "Carol MENDEZ",
+            "email": "caromendez@yahoo.fr",
+            "telephone": "47966522",
+            "age": "28",
+            "maritalStatus": "single",
+            "salary": "120000",
+            "position": "lawyer"
+        },
+        {
+            "name": "Patrick ANDRE",
+            "email": "patrick@yahoo.fr",
+            "telephone": "24885569",
+            "age": "42",
+            "maritalStatus": "married",
+            "salary": "197000",
+            "position": "accountant"
+        },
+        {
+            "name": "Stephanie JOSEPH",
+            "email": "stephie@yahoo.fr",
+            "telephone": "341789528",
+            "age": "26",
+            "maritalStatus": "single",
+            "salary": "19000",
+            "position": "supervisor"
+        },
+        {
+            "name": "Robert PARKER",
+            "email": "robert@yahoo.fr",
+            "telephone": "47962574",
+            "age": "30",
+            "maritalStatus": "married",
+            "salary": "19000",
+            "position": "supervisor"
+        },
+        {
+            "name": "Paul HANK",
+            "email": "hank@yahoo.fr",
+            "telephone": "348784451",
+            "age": "52",
+            "maritalStatus": "married",
+            "salary": "195000",
+            "position": "director"
+        },
+        {
+            "name": "Erick  Jean",
+            "email": "erick@yahoo.fr",
+            "telephone": "24848995",
+            "age": "56",
+            "maritalStatus": "divorced",
+            "salary": "8000",
+            "position": "head of security"
+        },
+        {
+            "name": "Jacob PAUL",
+            "email": "jacobpaul@yahoo.fr",
+            "telephone": "486598542",
+            "age": "32",
+            "maritalStatus": "single",
+            "salary": "5000",
+            "position": "security"
+        },
+        {
+            "name": "Sony Pierre",
+            "email": "sonypierre@yahoo.fr",
+            "telephone": "44788774",
+            "age": "35",
+            "maritalStatus": "single",
+            "salary": "5000",
+            "position": "security"
+        },
+        {
+            "name": "Andy STOBER",
+            "email": "andystober@yahoo.fr",
+            "telephone": "44589999",
+            "age": "49",
+            "maritalStatus": "married",
+            "salary": "5000",
+            "position": "security"
+        }
+    ]
+}
