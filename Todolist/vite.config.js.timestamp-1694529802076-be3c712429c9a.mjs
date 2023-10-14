@@ -1,6 +1,6 @@
 // vite.config.js
-import { defineConfig } from "file:///C:/Users/Nadege/Desktop/000react/Todolist/node_modules/vite/dist/node/index.js";
-import react from "file:///C:/Users/Nadege/Desktop/000react/Todolist/node_modules/@vitejs/plugin-react/dist/index.mjs";
+import { defineConfig } from "file:///C:/Users/JcerelusDev/Desktop/000react/Todolist/node_modules/vite/dist/node/index.js";
+import react from "file:///C:/Users/JcerelusDev/Desktop/000react/Todolist/node_modules/@vitejs/plugin-react/dist/index.mjs";
 var vite_config_default = defineConfig({
   plugins: [react()]
 });
